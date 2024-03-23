@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Samyak, a final year Computer Science student passionate about crafting web solutions. 🎓
+👋 Hello there! I'm Samyak, a final year Computer Science student passionate about crafting web solutions. 🎓
 
 ## 💻 About Me
 During my academic journey, I've immersed myself in coding and development, specializing as a Full Stack Developer with expertise in the MERN stack—MongoDB, Express.js, React.js, and Node.js. My internship experiences have been invaluable, particularly as a MERN stack intern, where I contributed to real-world projects, tackling challenges from database design with MongoDB to crafting responsive user interfaces with React.js.
