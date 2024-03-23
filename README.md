@@ -1,4 +1,4 @@
-👋 Hello there! I'm Samyak, a final year Computer Science student passionate about crafting web solutions. 🎓
+👋 Howdy! I'm Samyak, a final year Computer Science student passionate about crafting web solutions. 🎓
 
 ## 💻 About Me
 During my academic journey, I've immersed myself in coding and development, specializing as a Frontend Web Developer with expertise in the MERN stack-MongoDB, Express.js, React.js, and Node.js. Frontend Web Developer and Creative UI/UX Designer with a keen eye for detail and a commitment to delivering exceptional user experiences. Proficient in a variety of programming languages, design tools, website builders & web frameworks. I thrive in turning ideas into robust, user-friendly webapps.
